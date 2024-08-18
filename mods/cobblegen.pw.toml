@@ -1,0 +1,13 @@
+name = "CobbleGen"
+filename = "cobblegen-5.3.9+1.21b45-BETA-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/qRogT5Gy/versions/IH2BPVfC/cobblegen-5.3.9%2B1.21b45-BETA-fabric.jar"
+hash-format = "sha1"
+hash = "7c02b8eca0101638abd5c3558914f294ad4c23e6"
+
+[update]
+[update.modrinth]
+mod-id = "qRogT5Gy"
+version = "IH2BPVfC"

@@ -1,0 +1,16 @@
+name = "Ooc Server"
+author = "MarioAndWeegee3"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "07a5dc7f6c72f274e2da23865e432610ae9a60cb741a79f2227bc3a57a10a58a"
+
+[versions]
+minecraft = "1.21.1"
+quilt = "0.26.3"
+
+[options]
+acceptable-game-versions = ["1.21"]
