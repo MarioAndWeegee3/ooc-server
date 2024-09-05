@@ -421,11 +421,6 @@ hash = "db6e95a9079b0d06af65c2a29af6a6004ba72e8f4d008457ba45bc90a70ff8a3"
 metafile = true
 
 [[files]]
-file = "mods/tinkerers-smithing.pw.toml"
-hash = "aab179588a8f84bb9677718868046d30e9c3eb5f1199db58388fa8a62a01155f"
-metafile = true
-
-[[files]]
 file = "mods/universal-graves.pw.toml"
 hash = "0e5269d1f059570c94ee583da75b4077f83c388b2ffa8184652d30997beda713"
 metafile = true
