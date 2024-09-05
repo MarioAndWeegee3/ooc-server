@@ -1,6 +1,6 @@
 name = "Floodgate-Fabric"
 filename = "Floodgate-Fabric-2.2.3-SNAPSHOT+build.31.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/bWrNNfkb/versions/iWEfqepR/Floodgate-Fabric-2.2.3-SNAPSHOT%2Bbuild.31.jar"
