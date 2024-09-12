@@ -12,7 +12,7 @@ metafile = true
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
-hash = "d2ec411f15df65538f0ce677c3e2f2eb8c68219cd71922d5b2e60ba8e168e217"
+hash = "fba34808e6dd722bedced5c40367f7b96c6d528b8e328670d3d7663a6de8ada1"
 metafile = true
 
 [[files]]
@@ -57,12 +57,12 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "ff95494288c59e70290eb86205a11e9453d91181a838cca5823b835e2e44bf20"
+hash = "ae5bb725f6a66376d9f60c29391f929a4cd1cc3931120a5a4c9491a4afe043c6"
 metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "860f349f22b4ae5c8765b78a961702aeaf70f5630110422f122666b3bead2437"
+hash = "826e951372ef9bf103386d417861776344b54aa6f524c50c32a4da97b7df0205"
 metafile = true
 
 [[files]]
@@ -82,7 +82,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblegen.pw.toml"
-hash = "0d77a66497c2a28f596422900af55c165637b94001e5fc979c94d2473ffec9c5"
+hash = "9d262ebc2ca7f3ff2c692f233e61695f4f313e4839aedbcaed4042eccbba04e7"
 metafile = true
 
 [[files]]
@@ -102,7 +102,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlling.pw.toml"
-hash = "f5703304b1a84f1b86ad64e991c0bdd632dea063da1cf53fb49d85bdd19b905f"
+hash = "588af5224de07ab7d99c6ef8875d53a43bb89676d7b5938f8ed3c98f3e39e078"
 metafile = true
 
 [[files]]
@@ -141,18 +141,23 @@ hash = "9099b858e94f6f81db890c7d46f85601dee71ba33fb7ae19773b8da2ce8c3834"
 metafile = true
 
 [[files]]
+file = "mods/emi-enchanting.pw.toml"
+hash = "c9cd3966addff16974b3cda47751ebc67358eb1fb23ef8c8f497b18b6c744441"
+metafile = true
+
+[[files]]
 file = "mods/emi.pw.toml"
-hash = "0aa8e719a05e23fe541f07fa9a528e72dd968477c96575fa75c4ad1c745fc133"
+hash = "e23e5a2a536d5d3d5c878efbf649966f97058c031a48a3b6ce4e57d4a20cd42f"
 metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "f88aeaff5ce3bac5c5135551a4a5f7a30d07b3b9ecf02e4289968c7e80fa2844"
+hash = "cd803ccc381b3de24813d53ce17b79dea5a44ef79f507839752401f0fcaf4b9f"
 metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "9855e0fe709e658c204741cb02b9b157ec874fc6f2645888c05e65e2911a495a"
+hash = "dece10f161ad72eb069bc489fd10328b525b8c20858c0c13ff86f66452e2c8cc"
 metafile = true
 
 [[files]]
@@ -177,7 +182,7 @@ metafile = true
 
 [[files]]
 file = "mods/floodgate.pw.toml"
-hash = "00844be962616c4b50281eb0385ef05e3a3bbfa4f25ce60a80629e5f22135a1c"
+hash = "f5bc595c9b27b68273eb46ac1304d0c6b20c94098453cd531d67dfbf7217a235"
 metafile = true
 
 [[files]]
@@ -187,7 +192,7 @@ metafile = true
 
 [[files]]
 file = "mods/geyser.pw.toml"
-hash = "ebc8efea463dec97db37982060e2af4901354ebbaeef28c7d3a7ae5e1e8e4784"
+hash = "3275c89eb455dd62dfb2aeb4ba124ee34b1993c08db3f9862f84d1c72c80ff74"
 metafile = true
 
 [[files]]
@@ -227,7 +232,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "3234a9a8a5bbb1986aee78a430a885e8b572cfb9a4126614930f19ecb2032e95"
+hash = "6002970add8f20110a798c0c47f5a5bda2ece1ab06dc3525311d1aeeb9d075a4"
 metafile = true
 
 [[files]]
@@ -237,7 +242,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "4e74446260aa9a901dac7ad1c7d1926069d611ddbabd426ccb1e0d128a3e83d8"
+hash = "aad1007acfe8ebd83ab2b4b95d15ae118c8704b0849ae11e35a9a6a3eb35d9e1"
 metafile = true
 
 [[files]]
@@ -297,7 +302,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "c7c101be06ad509eb7d2d2459419524b6814152546d59e0f7608b22a0d066ad9"
+hash = "601b4cdbd392d5abae9144ea83c4b93a362f33b60411a32059feeb73d12fe029"
 metafile = true
 
 [[files]]
@@ -317,7 +322,7 @@ metafile = true
 
 [[files]]
 file = "mods/polymer.pw.toml"
-hash = "98351beee763f310114dbda4dec70ff93fb5585ca619719af62ace3bcc96a43e"
+hash = "91915b8c456ec1f85b10edad3bcdd68d5e190a44a06b271f3910f0afab805cd9"
 metafile = true
 
 [[files]]
@@ -372,7 +377,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "1deef8562105a5fecc5c81dad71230892ad28807c7d753b31f7fc8fcdccd6459"
+hash = "a6ba298b74f6cc6d2ed3cf0f4223200cce95251413ac8a0d531d230cd6c7ddd0"
 metafile = true
 
 [[files]]
@@ -397,7 +402,7 @@ metafile = true
 
 [[files]]
 file = "mods/sswaystones.pw.toml"
-hash = "bbc59a2176b4989032c84b94607176d5d0e4e846f26fe424f7443432317798fb"
+hash = "c05d2816cf4e12adec291eb69be1881777fcaed9dc29a78110764e44ff626b56"
 metafile = true
 
 [[files]]
@@ -422,7 +427,7 @@ metafile = true
 
 [[files]]
 file = "mods/universal-graves.pw.toml"
-hash = "0e5269d1f059570c94ee583da75b4077f83c388b2ffa8184652d30997beda713"
+hash = "e8560195d8eac2f13f72c6a8cc18116c4fceb6d906fe22ea1747e76ee6e6d7cb"
 metafile = true
 
 [[files]]
