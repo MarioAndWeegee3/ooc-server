@@ -1,13 +1,13 @@
 name = "Floodgate-Fabric"
-filename = "fabric-Floodgate-Fabric-2.2.4-b33.jar"
+filename = "Floodgate-Fabric-2.2.4-b36.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/bWrNNfkb/versions/Zt2E9coG/fabric-Floodgate-Fabric-2.2.4-b33.jar"
+url = "https://cdn.modrinth.com/data/bWrNNfkb/versions/wPa1pHZJ/Floodgate-Fabric-2.2.4-b36.jar"
 hash-format = "sha1"
-hash = "202fb34cbeed5fa11b3924813ed25d570a669dcd"
+hash = "c5bef1c650cfc0b863f617856d757c7dc330c175"
 
 [update]
 [update.modrinth]
 mod-id = "bWrNNfkb"
-version = "Zt2E9coG"
+version = "wPa1pHZJ"
