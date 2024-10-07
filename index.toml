@@ -57,7 +57,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "3c2696f296a9b195b68c4873fbe3ba07e049dcd5ccd459cc43ab5b86d1da4541"
+hash = "964e4786a6277e9d7967bcfa1d4dd3625982d482becf89b0261791cad2b41e89"
 metafile = true
 
 [[files]]
@@ -147,7 +147,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "e23e5a2a536d5d3d5c878efbf649966f97058c031a48a3b6ce4e57d4a20cd42f"
+hash = "68afe5059190088fcd078849d3f83bf88b9666bf3985540e0f69f910f47a43ca"
 metafile = true
 
 [[files]]
@@ -192,7 +192,7 @@ metafile = true
 
 [[files]]
 file = "mods/geyser.pw.toml"
-hash = "bf97e2bc5c20f489fa5d0efa4c065bf5a974f72c8ce44152f731fa389266519a"
+hash = "fdd5c0ecc2575192e18b64331da7c9e96f563f030b0b4a339892e5800c34b492"
 metafile = true
 
 [[files]]
@@ -232,7 +232,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "596009ec5701f7063fc8b4dcf145da1fd557e96d1abd1908948b6bf9481b444b"
+hash = "715fd75311a3b112aa6261123603b0e45f0c73cf8fb99c85a4dedd4288366f0f"
 metafile = true
 
 [[files]]
@@ -242,7 +242,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "aad1007acfe8ebd83ab2b4b95d15ae118c8704b0849ae11e35a9a6a3eb35d9e1"
+hash = "cc491adadeb1c1645f1f65073d9543eea1914425a17ad8338e61a4de05c00471"
 metafile = true
 
 [[files]]
@@ -282,7 +282,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "94caec0b2017c467df06218a28c4d3b9ec4c6a18cbd1775edc06483ed0a909b8"
+hash = "abec87865c56ff3f113730164dd151e900ab1a4000001966f7a9c500311994f1"
 metafile = true
 
 [[files]]
@@ -372,12 +372,12 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "a6ba298b74f6cc6d2ed3cf0f4223200cce95251413ac8a0d531d230cd6c7ddd0"
+hash = "3ea99db242c72753682ecb03faf2d367e1cbf8de0b5cbb4691180d107b06a8fa"
 metafile = true
 
 [[files]]
 file = "mods/sit!.pw.toml"
-hash = "f3f789d4d1ad74693fc7c93caec859fb2712b21e6c39dd86c013afc7e3560ee5"
+hash = "577f41aae32431430b9918e918fb03783e48869c2a693993fb1fe87dde35d60d"
 metafile = true
 
 [[files]]
