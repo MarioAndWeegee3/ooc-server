@@ -32,7 +32,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "77cba89986eae4a5a2d693a2e169cd91338127f625663bc26741094a75616bbb"
+hash = "966f995d81b792ae424ece87b1c1697bd976616f3580e4bb3f6c328de836b7e2"
 metafile = true
 
 [[files]]
@@ -57,7 +57,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "964e4786a6277e9d7967bcfa1d4dd3625982d482becf89b0261791cad2b41e89"
+hash = "14d029327cc236a0b107c2a0db42248170543f78445ee40cbab3a11d1c75d54c"
 metafile = true
 
 [[files]]
@@ -112,7 +112,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "aa6914e50a5bc531fc8c4f6d3ad8244e06335ee5068ec6ad879af1e80d5294ba"
+hash = "f71f38929cf503845fc2ee54ee1a8cca1a3c508b99df58af8e46427ebe1f397d"
 metafile = true
 
 [[files]]
@@ -147,7 +147,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "68afe5059190088fcd078849d3f83bf88b9666bf3985540e0f69f910f47a43ca"
+hash = "3b357601392f348f0d600826da447089c3d12f16bfcf650e355a64b50bdf6d6d"
 metafile = true
 
 [[files]]
@@ -192,7 +192,7 @@ metafile = true
 
 [[files]]
 file = "mods/geyser.pw.toml"
-hash = "fdd5c0ecc2575192e18b64331da7c9e96f563f030b0b4a339892e5800c34b492"
+hash = "b6c838c88f00b047adb1989e68d3c919e52ca1ab74af6233167f3b4692fc86ad"
 metafile = true
 
 [[files]]
@@ -232,7 +232,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "715fd75311a3b112aa6261123603b0e45f0c73cf8fb99c85a4dedd4288366f0f"
+hash = "dda40ec67a5c58782c6de29b49af2c25675e1b25a70143586964a70928336a66"
 metafile = true
 
 [[files]]
@@ -257,7 +257,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "c24fcd33ecd783569879dbe9ecb8cdd1dcc7e00c1f40cda0271100255e155162"
+hash = "fd902023333e13ae8e97a2a85d8732d6e60bc5479274d2308193c469d995fb84"
 metafile = true
 
 [[files]]
@@ -277,12 +277,12 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "2b8ce9ab97a35059a79d59d540687385d25956c519ce1728fbcfb13fae93a328"
+hash = "87f32c96066eb295c234effb49f6f5cbd5956316a3a750a3989cfb645b3fd397"
 metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "abec87865c56ff3f113730164dd151e900ab1a4000001966f7a9c500311994f1"
+hash = "7132e2ef7edaea825203b4cddce49d4c932e373af04906f42b1945add2f1cd1e"
 metafile = true
 
 [[files]]
@@ -312,7 +312,7 @@ metafile = true
 
 [[files]]
 file = "mods/ok-zoomer.pw.toml"
-hash = "26027637c0718d1e631e60d8695d9bf6ec5da2c38888c9f5febd100da0fa7937"
+hash = "a55ab67abe8ff53a5021d0ad99d7566823f12db4159f50842320069b261f6d24"
 metafile = true
 
 [[files]]
@@ -372,7 +372,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "3ea99db242c72753682ecb03faf2d367e1cbf8de0b5cbb4691180d107b06a8fa"
+hash = "48622652491c0646e710d3b2e9b4f488b76971671d772c1a9d51c0c295e1b87f"
 metafile = true
 
 [[files]]
@@ -407,7 +407,7 @@ metafile = true
 
 [[files]]
 file = "mods/tax-free-levels.pw.toml"
-hash = "c93781ffee7d89bf2c2e633dbe15eecac035c32f750dde258a1385921ef2bb70"
+hash = "8068a1546232ad466752e4d9a81dfb8fc31500351fca1bcbc9c46200c2349dcc"
 metafile = true
 
 [[files]]
