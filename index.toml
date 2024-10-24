@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/quilt-loader-overrides.json"
+hash = "cfac5e6f2e44d59fe3e1ce68ad4b988ba3709a328bee482a35900c54fa1d777f"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "1afa3d4cc64e64899fd0c113936d8bef92e5a99aab3d42b14269503582fd38a8"
 metafile = true
@@ -27,7 +31,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "417b7af3c7cb5f2681960349d3fa118733cbce5d260fadddd792abb24e52fbdc"
+hash = "ab72b447ed976a93ce1124524295ab8a469438b741bdc224aefb1ad7d881e0cf"
 metafile = true
 
 [[files]]
@@ -57,12 +61,12 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "14d029327cc236a0b107c2a0db42248170543f78445ee40cbab3a11d1c75d54c"
+hash = "48e088efabac1bfbcc5f3839e6674ac9c74dd202643c464e04f21a14fc9725de"
 metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "53ee326e24bd8d6c2f1f6b4aa1f5256c0821fe0b9793d800e7e45d0f4c8a019c"
+hash = "1609b1a461452efaf0b6ceb12b2b6abd2b769dc897806f761c8103c27681307f"
 metafile = true
 
 [[files]]
@@ -82,7 +86,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblegen.pw.toml"
-hash = "9d262ebc2ca7f3ff2c692f233e61695f4f313e4839aedbcaed4042eccbba04e7"
+hash = "e7d10c51f038b290306795075ca3149c4ffa7fdf7d5beb1f882c759c99ff7347"
 metafile = true
 
 [[files]]
@@ -112,7 +116,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "f71f38929cf503845fc2ee54ee1a8cca1a3c508b99df58af8e46427ebe1f397d"
+hash = "440055e9a752b766dda5555874a33c89e7c563c15975a845395c2247b8524d44"
 metafile = true
 
 [[files]]
@@ -127,7 +131,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "7e27c265dd69836144cea05f9d3105b4113a2d4a6ad32e9e7ff7e4ab56502421"
+hash = "732d2e75a1ec259cdb07eb5b55e7cd7736e381140cb8e2f7880a4f67c2bb0f3a"
 metafile = true
 
 [[files]]
@@ -177,7 +181,7 @@ metafile = true
 
 [[files]]
 file = "mods/ferrite-core.pw.toml"
-hash = "078c828454d8a361baae372b5ee3dc33e5f3573fa19bdac8589b38da9dbc5c03"
+hash = "2250b48970ad684f439bf82e0275be0a2b3dbeab43dca0d2dd884601975d286a"
 metafile = true
 
 [[files]]
@@ -192,7 +196,7 @@ metafile = true
 
 [[files]]
 file = "mods/geyser.pw.toml"
-hash = "b6c838c88f00b047adb1989e68d3c919e52ca1ab74af6233167f3b4692fc86ad"
+hash = "0d04c3842d65af269d7c9a6884aa83b4e771188f5371a51d61c33ed76030e41a"
 metafile = true
 
 [[files]]
@@ -207,7 +211,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "ae42dc97752bf2031b0fb77994ab04e51e5569a637f2f9ee6a98937053b0d290"
+hash = "835b42848b40cd6f0568cb95fa655833e0caeb488a74cfd05df97a5644fd052b"
 metafile = true
 
 [[files]]
@@ -237,12 +241,12 @@ metafile = true
 
 [[files]]
 file = "mods/jamlib.pw.toml"
-hash = "72acc0c012c32239b33b9dd388b0144f8b59328b666cd81e1977bf5a23bf1f33"
+hash = "637e57cc2a005243bb001c7e59a6d7dfb62477c77cca945e48175ff6babff9a1"
 metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "cc491adadeb1c1645f1f65073d9543eea1914425a17ad8338e61a4de05c00471"
+hash = "1e2ede1a997ca4ca9b308e3537b3a84bfb087444727e0cc11cb5594982c89b57"
 metafile = true
 
 [[files]]
@@ -312,7 +316,7 @@ metafile = true
 
 [[files]]
 file = "mods/ok-zoomer.pw.toml"
-hash = "a55ab67abe8ff53a5021d0ad99d7566823f12db4159f50842320069b261f6d24"
+hash = "efbfeea99f4b0b6eb2e62d9b840efa7d8f68593c4506bcad612c846d23760eba"
 metafile = true
 
 [[files]]
@@ -322,7 +326,7 @@ metafile = true
 
 [[files]]
 file = "mods/polymer.pw.toml"
-hash = "ab39e7cda7e3b9c2225186f1c18b4cb1cdf4c5d7ed887f77df61f29f28b5f6c9"
+hash = "593ad2c467b1709d616441b875b00e3ee7de39a81c4bb1129be092cbcbd90c2e"
 metafile = true
 
 [[files]]
@@ -352,7 +356,7 @@ metafile = true
 
 [[files]]
 file = "mods/rightclickharvest.pw.toml"
-hash = "b3fa4641182587001a14bf8c038505ff774eccfdbd59be3ea03390b253395c21"
+hash = "4df493135895b905153712422194c1123a4febde4095968a15f79dc3276b7f36"
 metafile = true
 
 [[files]]
@@ -362,7 +366,7 @@ metafile = true
 
 [[files]]
 file = "mods/searchables.pw.toml"
-hash = "9071356a9c92d249941a89c5ef62a18041846ef3bb8ecb0396defaa6f811ab51"
+hash = "fd3ca3a862640f7ad76d46a7e7551e487c3d48e9107e8e1f40e065fe3fd8a4ed"
 metafile = true
 
 [[files]]
@@ -377,7 +381,7 @@ metafile = true
 
 [[files]]
 file = "mods/sit!.pw.toml"
-hash = "577f41aae32431430b9918e918fb03783e48869c2a693993fb1fe87dde35d60d"
+hash = "8d5a0e5bdce5b3e35c5ed21534d6af48898a4d3fad9cd9241af3b06d1dda5ee8"
 metafile = true
 
 [[files]]
@@ -431,16 +435,16 @@ hash = "eb827cb7758017d6cca9f681cfee32f7999f2d3741f2f41f2a96242755c5888b"
 metafile = true
 
 [[files]]
+file = "mods/viafabric.pw.toml"
+hash = "5dac8cf2bce09b9f93fd3c0291af41e234c32a1495e2b44f1593fce2ef484d1c"
+metafile = true
+
+[[files]]
 file = "mods/vmp-fabric.pw.toml"
 hash = "107f3b4c6c46863c5adda283a97f4648ec6507f1bfb353165c4d320adaccd568"
 metafile = true
 
 [[files]]
 file = "mods/xanders-sodium-options.pw.toml"
-hash = "356448860653b0581b81acc90353eed7751d9ca56d7b56ebfc615e6a2f11cde7"
-metafile = true
-
-[[files]]
-file = "mods/yacl.pw.toml"
-hash = "7f7768f2047011ed61c9bbec29bbcd2d06c5eb8ab731d442b9ecc2c01bbc8c6b"
+hash = "6a6a00c37e5e8b977bab7546082e4f8965a5ed12ee82620fb14ec3b888f7d883"
 metafile = true

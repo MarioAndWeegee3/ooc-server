@@ -1,0 +1,15 @@
+{
+    "schema_version": 1,
+    "overrides": [
+        {
+            "path": "<mods>/rightclickharvest-fabric-4.4.0+1.21.1.jar",
+            "depends": [
+                {
+                    "remove": {
+                        "id": "fabric"
+                    }
+                }
+            ]
+        }
+    ]
+}
