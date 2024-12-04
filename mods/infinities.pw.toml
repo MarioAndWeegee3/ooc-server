@@ -1,13 +1,13 @@
 name = "Infinities"
-filename = "infinities-1.2+1.21.jar"
+filename = "infinities-1.2+1.21.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/YjEZi16W/versions/4ZypkdDa/infinities-1.2%2B1.21.jar"
+url = "https://cdn.modrinth.com/data/YjEZi16W/versions/I2CPMLkZ/infinities-1.2%2B1.21.2.jar"
 hash-format = "sha1"
-hash = "cf9c1455abbd58e7ec1d44309b6464f4a60802d1"
+hash = "70da95be996e14abcdb2b4fffc8ce0b54ae9a6d2"
 
 [update]
 [update.modrinth]
 mod-id = "YjEZi16W"
-version = "4ZypkdDa"
+version = "I2CPMLkZ"
