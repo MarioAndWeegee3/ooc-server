@@ -1,13 +1,13 @@
 name = "Xander's Sodium Options"
-filename = "xanders-sodium-options-2.2.1+1.21.3.jar"
+filename = "xanders-sodium-options-2.3.0+1.21.3.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/sTkQBVyo/versions/6vtpFwPP/xanders-sodium-options-2.2.1%2B1.21.3.jar"
+url = "https://cdn.modrinth.com/data/sTkQBVyo/versions/Zewn8ced/xanders-sodium-options-2.3.0%2B1.21.3.jar"
 hash-format = "sha1"
-hash = "ac398c292f64a562582c850532b2d169516aa88b"
+hash = "6f6d219f20eaeec85cae7d654a11db002bb5c214"
 
 [update]
 [update.modrinth]
 mod-id = "sTkQBVyo"
-version = "6vtpFwPP"
+version = "Zewn8ced"
