@@ -61,7 +61,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "d8659b2e761d343c31c1521ac366522d5018b22fbddb736dd7af493d2a68741d"
+hash = "006fd7a6603d631726098ffc492a6433ad3451a6a20ee7335687e7724078ad40"
 metafile = true
 
 [[files]]
@@ -136,7 +136,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "406a838e4befb2727bfa495d9e9718dbabc198c2a1fa905f8bd563cc2e837313"
+hash = "0712f5b6e3ba0fec55b99924ef061c4ecf6f38ef08595da79fe7afb68ca4328c"
 metafile = true
 
 [[files]]
@@ -351,7 +351,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "75ab129f4d9986e6fb8983074f6e26e7209591dfe91c45b106a831c62f5a1012"
+hash = "0f66437d99e16dda007e45ede8cbd4cba6c8c425433c59b5b7f4e2f71c93fe80"
 metafile = true
 
 [[files]]
@@ -366,7 +366,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "1119738e75bdf45332c59d2dc774e192646a9207b0d9ef9798153861379db580"
+hash = "3864737ec8a6f1ca618ccf7893fd235decc7c66ccd2259561fe28972b68c9d02"
 metafile = true
 
 [[files]]
