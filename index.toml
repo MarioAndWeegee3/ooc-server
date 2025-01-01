@@ -202,7 +202,7 @@ metafile = true
 
 [[files]]
 file = "mods/itemswapper.pw.toml"
-hash = "03877f55a1d6075a71acfc8a2991c0cffe8882938666ae3d8e8d7a8681555d79"
+hash = "d57cc69a061d545acbe2f2ace36d9197670a5a6b415adbb3ec846c6c4c83d8a1"
 metafile = true
 
 [[files]]
@@ -367,7 +367,7 @@ metafile = true
 
 [[files]]
 file = "mods/sswaystones.pw.toml"
-hash = "0fcde3c4ea048bba1a309d6ecdf68e15b379f9147ce79d8b1decd3405558bd23"
+hash = "dbcdcf8c975e98fd0db8a11264bd1f003dad50d0d7458bbe8e35c6f1d879deed"
 metafile = true
 
 [[files]]

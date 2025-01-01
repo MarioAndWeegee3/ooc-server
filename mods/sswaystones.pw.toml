@@ -1,6 +1,6 @@
 name = "Server-Side Waystones"
 filename = "sswaystones-1.1.5.jar"
-side = "both"
+side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/BzV6ulv0/versions/CLdbeNYb/sswaystones-1.1.5.jar"
