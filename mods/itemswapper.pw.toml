@@ -1,6 +1,6 @@
 name = "ItemSwapper"
 filename = "itemswapper-fabric-0.7.5-mc1.21.4.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/RPOSBQgq/versions/v8PbXKY5/itemswapper-fabric-0.7.5-mc1.21.4.jar"
