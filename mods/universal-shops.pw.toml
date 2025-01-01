@@ -1,13 +1,13 @@
 name = "Universal Shops"
-filename = "universal_shops-1.8.1+1.21.2.jar"
+filename = "universal_shops-1.9.0+1.21.4.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/cnIatHrN/versions/9dKdD4Qc/universal_shops-1.8.1%2B1.21.2.jar"
+url = "https://cdn.modrinth.com/data/cnIatHrN/versions/URt0BiPz/universal_shops-1.9.0%2B1.21.4.jar"
 hash-format = "sha1"
-hash = "f6a3fcc13b54dbe7d737bd2087e9546023ea4f34"
+hash = "bb23026d89ab5a9c86b3ce80bb9efd685bbd04b3"
 
 [update]
 [update.modrinth]
 mod-id = "cnIatHrN"
-version = "9dKdD4Qc"
+version = "URt0BiPz"

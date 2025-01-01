@@ -3,11 +3,11 @@ filename = "sswaystones-1.1.5.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/BzV6ulv0/versions/9z7Cbzsn/sswaystones-1.1.5.jar"
+url = "https://cdn.modrinth.com/data/BzV6ulv0/versions/CLdbeNYb/sswaystones-1.1.5.jar"
 hash-format = "sha1"
-hash = "bc6b1f319a36648c920d06998ec4a549391bed84"
+hash = "71eaf4fa20ae23f0e302d4bd6fc1f37ffac04f22"
 
 [update]
 [update.modrinth]
 mod-id = "BzV6ulv0"
-version = "9z7Cbzsn"
+version = "CLdbeNYb"
