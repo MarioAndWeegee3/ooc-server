@@ -1,0 +1,13 @@
+name = "Elytra Drag Renewed"
+filename = "elytra-drag-2.0.0.0+1.21.4+renewed.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/UN6ev1of/versions/mmu0wkex/elytra-drag-2.0.0.0%2B1.21.4%2Brenewed.jar"
+hash-format = "sha1"
+hash = "71478c12dfd85e2fb3b8e79596303c7fbc764428"
+
+[update]
+[update.modrinth]
+mod-id = "UN6ev1of"
+version = "mmu0wkex"

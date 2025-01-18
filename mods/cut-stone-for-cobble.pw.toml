@@ -1,0 +1,13 @@
+name = "Cut Stone for Cobble"
+filename = "cut-stone-for-cobble-1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/L38QeGEm/versions/64Q2rOzx/cut-stone-for-cobble-1.1.jar"
+hash-format = "sha1"
+hash = "4c78190d2f6ff7083f80a325614d33b771c7bd90"
+
+[update]
+[update.modrinth]
+mod-id = "L38QeGEm"
+version = "64Q2rOzx"

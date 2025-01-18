@@ -1,0 +1,13 @@
+name = "Auto Attack"
+filename = "auto-attack-2.0.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/7n9H9NyG/versions/NIvsUGL9/auto-attack-2.0.1.jar"
+hash-format = "sha1"
+hash = "6a78a295c4c3e5a2fa89a2fd5e24514b05c4a503"
+
+[update]
+[update.modrinth]
+mod-id = "7n9H9NyG"
+version = "NIvsUGL9"
