@@ -2,6 +2,11 @@ name = "Controlify"
 filename = "Controlify-2.0.0-beta.21+1.21.4-fabric.jar"
 side = "client"
 
+[option]
+optional = true
+default = false
+description = "Enable if you want/need controller support"
+
 [download]
 url = "https://cdn.modrinth.com/data/DOUdJVEm/versions/Co3GkxJc/Controlify-2.0.0-beta.21%2B1.21.4-fabric.jar"
 hash-format = "sha1"
