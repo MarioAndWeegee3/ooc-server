@@ -1,13 +1,13 @@
 name = "Server-Side Waystones"
-filename = "sswaystones-1.1.5.jar"
+filename = "sswaystones-1.1.7.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/BzV6ulv0/versions/CLdbeNYb/sswaystones-1.1.5.jar"
+url = "https://cdn.modrinth.com/data/BzV6ulv0/versions/rOeLUi4t/sswaystones-1.1.7.jar"
 hash-format = "sha1"
-hash = "71eaf4fa20ae23f0e302d4bd6fc1f37ffac04f22"
+hash = "cceb617bb35ced13539beaaaa673d063560db0ce"
 
 [update]
 [update.modrinth]
 mod-id = "BzV6ulv0"
-version = "CLdbeNYb"
+version = "rOeLUi4t"
