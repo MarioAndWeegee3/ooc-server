@@ -1,13 +1,13 @@
 name = "Quick Right-Click"
-filename = "quickrightclick-1.21.4-1.5.jar"
+filename = "quickrightclick-1.21.4-1.6.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/e8mI328p/versions/nwYIAL7d/quickrightclick-1.21.4-1.5.jar"
+url = "https://cdn.modrinth.com/data/e8mI328p/versions/fEr07gPe/quickrightclick-1.21.4-1.6.jar"
 hash-format = "sha1"
-hash = "1ccc841d8c8b3f536b1dd953ad0ff1edfc0c936f"
+hash = "bd76e5a891be6b8411cc8177ada931de5e3e6825"
 
 [update]
 [update.modrinth]
 mod-id = "e8mI328p"
-version = "nwYIAL7d"
+version = "fEr07gPe"

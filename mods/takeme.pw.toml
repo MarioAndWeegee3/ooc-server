@@ -1,0 +1,13 @@
+name = "TakeMe"
+filename = "takeme-fabric-1.21.4-1.1.2.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/XxyI5Xc5/versions/cGOrrojH/takeme-fabric-1.21.4-1.1.2.jar"
+hash-format = "sha1"
+hash = "d913858f30ab3ebc96e5dc4cdf626ab019561b89"
+
+[update]
+[update.modrinth]
+mod-id = "XxyI5Xc5"
+version = "cGOrrojH"

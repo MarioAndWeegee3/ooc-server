@@ -1,18 +1,13 @@
 hash-format = "sha256"
 
 [[files]]
-file = "mods/2mal3s-recipes.pw.toml"
-hash = "bcd1ec672ae3136801250f6563f0dd186c93a4975a4a6529f6c2bbfc37007158"
-metafile = true
-
-[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "0bbe6d0e6e2bc0bc90fda2da56cc12e3b56448185c5c3181939659670d13019f"
 metafile = true
 
 [[files]]
 file = "mods/alternate-current.pw.toml"
-hash = "bfd6fb33cb6fbbeb195f89aabbb46fc6afeb21f5f14b7b136433a762e3deef8b"
+hash = "dae66971497baa0e5a20c15cdc35e856aac1957f3d7c16dc41caf276facf2cf3"
 metafile = true
 
 [[files]]
@@ -42,7 +37,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "2d17d7e7ac4a91eac1cbf77ad4c652a72535c6c308558ca9d66daefc99e3306c"
+hash = "0be91296a7527b0e62961b406517462d10d1614c26800cb44b85c4a898da327b"
 metafile = true
 
 [[files]]
@@ -67,7 +62,12 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "f178628b64d52b6b1e7980160a7cd6af180cbb541471950c3c60615672417cb6"
+hash = "81e473888a6edbb28b8d50aadd41d88476c7d3b5fa3dfd0fb26b8598833fea68"
+metafile = true
+
+[[files]]
+file = "mods/candywrapper.pw.toml"
+hash = "5789ed255824d34d1dbdda44ee6d1d5e07519087ee6ea3189d69b073810f87ca"
 metafile = true
 
 [[files]]
@@ -78,6 +78,11 @@ metafile = true
 [[files]]
 file = "mods/chunky.pw.toml"
 hash = "01735a9d638c8fb4896c1a700eff0954aff8b854b517036bd9688e1d1754a7af"
+metafile = true
+
+[[files]]
+file = "mods/clickvillagers.pw.toml"
+hash = "b70bdd3bf2b88bce2e83778ce65181998f895e3da51adb2d3b2ea9872806297b"
 metafile = true
 
 [[files]]
@@ -97,7 +102,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "9dda01a994cdd001d154567541faee5afaaa4c388de497fbd6b789a141476613"
+hash = "3a1fac155b7ac0e722124e4793decf85b30c61f39e13ab205d9ee1586cba8732"
 metafile = true
 
 [[files]]
@@ -136,6 +141,11 @@ hash = "f42ac5b765061a9246f62bb63f682303c707c02addd50278cc078395c64e0dab"
 metafile = true
 
 [[files]]
+file = "mods/easy-elevators.pw.toml"
+hash = "1dff750c758502c2066aa877dab32f6deb0f39dd72f01b2662e20610e2f1872a"
+metafile = true
+
+[[files]]
 file = "mods/easy-eula.pw.toml"
 hash = "c6066b7362b9356cf5259c83526585b2a033eb91c16844f9e465da6816720e5b"
 metafile = true
@@ -157,7 +167,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "9cf638b98dabe65e743f31423b9cf6b95f9f9f111472af8094317979f4e766db"
+hash = "1496fc84fca2df380f82777e2599c906a3c0aaecd3720416d8aa8d35efd74c86"
 metafile = true
 
 [[files]]
@@ -187,7 +197,12 @@ metafile = true
 
 [[files]]
 file = "mods/geyser.pw.toml"
-hash = "e8673a09fda6da494cb0065bdb4dc6242d33f895268c302db1e828f0ae89de4c"
+hash = "052b77add1bd7729067c36505fb4c7561850b285f6e67129d2d95620b5b1a67c"
+metafile = true
+
+[[files]]
+file = "mods/gravelminer.pw.toml"
+hash = "5bef8e04748f2f1423033c6d02c883a3caee97406f91e6672978345d76daa6c5"
 metafile = true
 
 [[files]]
@@ -207,7 +222,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-essentials.pw.toml"
-hash = "daf108ff7c920f808e6268d5d5821c95db2ac78b8f960ec5bbe5a1e41bb6de02"
+hash = "8a44c3dc3993bfd3ec874e043113374a19086d4d84336c9dc2b59c06acc005b9"
 metafile = true
 
 [[files]]
@@ -217,7 +232,7 @@ metafile = true
 
 [[files]]
 file = "mods/itemswapper.pw.toml"
-hash = "3a76d491eaac93eda65beac2f128223e0dd84bf8b75e7ea3a067e331e3c6921a"
+hash = "a31027e57fac41a23bd1b4d8030d8c3a9f1ad633fb58285ca945f83fe13c3c4b"
 metafile = true
 
 [[files]]
@@ -237,7 +252,7 @@ metafile = true
 
 [[files]]
 file = "mods/kleeslabs.pw.toml"
-hash = "21d63630ca8de1a9cfe2e98a86b40e00a529b0eac7ac8a191811fed106cce1ac"
+hash = "25ffcd226828b4ea40bf5a2d1729c6e3b569dea8131f40a7af49b8b05bef4677"
 metafile = true
 
 [[files]]
@@ -267,12 +282,12 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "0237f48e59dc05dbb3839e36f0efe4b16865bf46b958ac4431a7fdcf4eb5bbbf"
+hash = "2d96ccfede6b8617151d775d5453247ec4ca324be9ab853805efb25ee9c74326"
 metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "0b867defc61534b59cfccd1e3b486b19fb0c8da184473a7157346380fd91ea4c"
+hash = "71b9ade82613188044d937a5523ba887ffdb0ce2bd19c38d22f8c18d0f9443bc"
 metafile = true
 
 [[files]]
@@ -297,7 +312,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "c0f80070f3bed878d56dab05a53377285a9ace2889656a4232d64dafbc2d0168"
+hash = "b641ed60e299d6133a6ce14dd916ca3978713490e1ff8e51592678d352bf3790"
 metafile = true
 
 [[files]]
@@ -332,7 +347,7 @@ metafile = true
 
 [[files]]
 file = "mods/quick-right-click.pw.toml"
-hash = "39805b732c75c56d4ab2651b335f7bd206a778b94bb6b6ca2917914a72f05d68"
+hash = "e303ac0b59566b9567c25798f5f4558261dfd9217961a721b07a7f52f2779938"
 metafile = true
 
 [[files]]
@@ -377,7 +392,7 @@ metafile = true
 
 [[files]]
 file = "mods/sit!.pw.toml"
-hash = "2874cb072941f570716ab3f252176272e1f82c56cdee7cc5029ad76e3f0266ee"
+hash = "9b5a58bf2730c42102ee102ce942e158760d07b4d83776a5bf41347e6e2ef665"
 metafile = true
 
 [[files]]
@@ -403,6 +418,11 @@ metafile = true
 [[files]]
 file = "mods/stackdeobf.pw.toml"
 hash = "621e56ad677649509141a20b4a4a6042ea30af69c1527153681f8f2c4cf0104b"
+metafile = true
+
+[[files]]
+file = "mods/takeme.pw.toml"
+hash = "af6a0c8fc57335c749bfadde5222e01a9c344a530638a8d98fcce61e05d64b29"
 metafile = true
 
 [[files]]

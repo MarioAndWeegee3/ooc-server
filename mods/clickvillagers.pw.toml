@@ -1,0 +1,12 @@
+name = "ClickVillagers"
+filename = "ClickVillagers-fabric-1.2.2+1.21.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/BITzwT7B/versions/QwXX6CUx/ClickVillagers-fabric-1.2.2%2B1.21.4.jar"
+hash-format = "md5"
+hash = "532d6128a32858f8a579aa166433ab31"
+
+[update.modrinth]
+mod-id = "BITzwT7B"
+version = "QwXX6CUx"
