@@ -1,13 +1,13 @@
 name = "CandyWrapper"
-filename = "candywrapper-fabric-1.21.4-0.4.4.jar"
+filename = "candywrapper-fabric-1.21.4-0.5.4.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/yywGpm0M/versions/S2Soekou/candywrapper-fabric-1.21.4-0.4.4.jar"
+url = "https://cdn.modrinth.com/data/yywGpm0M/versions/ZWNlh10G/candywrapper-fabric-1.21.4-0.5.4.jar"
 hash-format = "sha1"
-hash = "bf9e190185953c2afcfff93c8b1184429b87c6e1"
+hash = "1d4b0fd40c26034c5017d5de5b5405b5836fe281"
 
 [update]
 [update.modrinth]
 mod-id = "yywGpm0M"
-version = "S2Soekou"
+version = "ZWNlh10G"
