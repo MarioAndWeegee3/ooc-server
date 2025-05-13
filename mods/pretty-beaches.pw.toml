@@ -1,13 +1,13 @@
 name = "Pretty Beaches"
-filename = "prettybeaches-fabric-1.21.4-21.4.1.jar"
+filename = "prettybeaches-fabric-1.21.5-21.5.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/IAJe5m4X/versions/mEiOviZR/prettybeaches-fabric-1.21.4-21.4.1.jar"
+url = "https://cdn.modrinth.com/data/IAJe5m4X/versions/P1sMYDMM/prettybeaches-fabric-1.21.5-21.5.1.jar"
 hash-format = "sha1"
-hash = "af3e02809d856bb3809f6ec4c42cf247110a8934"
+hash = "b8f14c288a5d7838a96bd1342fd5df32a025d18e"
 
 [update]
 [update.modrinth]
 mod-id = "IAJe5m4X"
-version = "mEiOviZR"
+version = "P1sMYDMM"

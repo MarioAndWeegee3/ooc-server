@@ -1,13 +1,13 @@
 name = "GravelMiner"
-filename = "gravelminer-fabric-1.21.4-21.4.3.jar"
+filename = "gravelminer-fabric-1.21.5-21.5.2.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/iAzrhsju/versions/7vW04R6n/gravelminer-fabric-1.21.4-21.4.3.jar"
+url = "https://cdn.modrinth.com/data/iAzrhsju/versions/Soai6Ivz/gravelminer-fabric-1.21.5-21.5.2.jar"
 hash-format = "sha1"
-hash = "5059a4bdcd7f8a3f7271561e5aa8cfe7d396e6bd"
+hash = "56acb96a7564a1f58362d6401d9e32055049d80f"
 
 [update]
 [update.modrinth]
 mod-id = "iAzrhsju"
-version = "7vW04R6n"
+version = "Soai6Ivz"

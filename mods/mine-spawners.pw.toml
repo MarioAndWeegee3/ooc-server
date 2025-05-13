@@ -1,13 +1,13 @@
 name = "Mine Spawners"
-filename = "mine-spawners-1.5.1.jar"
+filename = "mine-spawners-1.5.3.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/7VESbzyX/versions/aMAMQxLy/mine-spawners-1.5.1.jar"
+url = "https://cdn.modrinth.com/data/7VESbzyX/versions/dJz46moR/mine-spawners-1.5.3.jar"
 hash-format = "sha1"
-hash = "4c705498afcf1a7c938b424523143afae4b562ca"
+hash = "73229fac8721b0de45120dd619776fe51942c81a"
 
 [update]
 [update.modrinth]
 mod-id = "7VESbzyX"
-version = "aMAMQxLy"
+version = "dJz46moR"

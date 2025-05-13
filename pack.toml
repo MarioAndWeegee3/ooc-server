@@ -1,16 +1,16 @@
 name = "Ooc Server"
 author = "MarioAndWeegee3"
-version = "1.0.0"
+version = "1.1.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "696e7413fb926c5ba5b36e8ac63a73cf641ea7f9ae999ea4aef49a6457f68cf6"
+hash = "db3638836a6d45c2cd3a5b6f9e5da18334ac6877ef43c2422afdf43790833ffb"
 
 [versions]
-fabric = "0.16.10"
-minecraft = "1.21.4"
+fabric = "0.16.14"
+minecraft = "1.21.5"
 
 [options]
 acceptable-game-versions = []
