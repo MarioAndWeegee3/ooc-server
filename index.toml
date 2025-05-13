@@ -66,11 +66,6 @@ hash = "daefcde9f34942b22f4612b1c1728b45602b25236bde9be6ef18cb6ebb044c34"
 metafile = true
 
 [[files]]
-file = "mods/candywrapper.pw.toml"
-hash = "5efccaf6873c704206dea1b8be7a8943ddb97127528190cb046fbdc4c3a33915"
-metafile = true
-
-[[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "84a292221df1f31246051c78bedbc226a55ea9ff829c120a40b66254a9188b6c"
 metafile = true
@@ -142,17 +137,12 @@ metafile = true
 
 [[files]]
 file = "mods/easy-elevators.pw.toml"
-hash = "7739d94ec3ca57b038d8f045ceab50c4c63aff0e06d1d7910bb79a12598caaa0"
+hash = "a636be0be3b0f6e4be1ff6da682af1fe818bf03bcbb4aa3fc57325ad82937d5a"
 metafile = true
 
 [[files]]
 file = "mods/easy-eula.pw.toml"
 hash = "c6066b7362b9356cf5259c83526585b2a033eb91c16844f9e465da6816720e5b"
-metafile = true
-
-[[files]]
-file = "mods/elytra-drag-renewed.pw.toml"
-hash = "4ad330c592734e638c95861867d11ae7011898922f82871cd3f213294a3a8868"
 metafile = true
 
 [[files]]
@@ -202,7 +192,7 @@ metafile = true
 
 [[files]]
 file = "mods/gravelminer.pw.toml"
-hash = "b6a0341ce02bbb19a4a761a17ed6588966da8b7a8df642ed9fb8ef0c9b9bba9a"
+hash = "b985b8f3194260d846294e4ff4359b681a67ee34c8204979f200a5f36688193f"
 metafile = true
 
 [[files]]
@@ -267,7 +257,7 @@ metafile = true
 
 [[files]]
 file = "mods/mine-spawners.pw.toml"
-hash = "f9854897c8b40b42ea128dcc0928eee890114194512a44891894e9b230495a64"
+hash = "791f9b29de12e3baf6722568d1b80a029632b5ccb06d0aee9a11bcc6c763d77e"
 metafile = true
 
 [[files]]
@@ -418,11 +408,6 @@ metafile = true
 [[files]]
 file = "mods/stackdeobf.pw.toml"
 hash = "621e56ad677649509141a20b4a4a6042ea30af69c1527153681f8f2c4cf0104b"
-metafile = true
-
-[[files]]
-file = "mods/takeme.pw.toml"
-hash = "a005e75ac93844fc722ec98b44f63208d331050a683f80c0a18cfd851106a7f3"
 metafile = true
 
 [[files]]

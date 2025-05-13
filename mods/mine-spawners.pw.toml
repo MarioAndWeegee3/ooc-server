@@ -1,6 +1,6 @@
 name = "Mine Spawners"
 filename = "mine-spawners-1.5.3.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/7VESbzyX/versions/dJz46moR/mine-spawners-1.5.3.jar"

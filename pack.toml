@@ -1,12 +1,12 @@
 name = "Ooc Server"
 author = "MarioAndWeegee3"
-version = "1.1.0"
+version = "1.1.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "db3638836a6d45c2cd3a5b6f9e5da18334ac6877ef43c2422afdf43790833ffb"
+hash = "9d70d5038b783c3d9a08f8951f78af21cf3ca4591f8760bdee09a0546e9172dc"
 
 [versions]
 fabric = "0.16.14"
