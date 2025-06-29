@@ -1,13 +1,13 @@
 name = "OtterLib"
-filename = "otterlib-0.1.2.1+1.21.5-fabric.jar"
+filename = "otterlib-0.2.1.0+1.21.5-fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/zVVpzurY/versions/nGq8Pr6L/otterlib-0.1.2.1%2B1.21.5-fabric.jar"
+url = "https://cdn.modrinth.com/data/zVVpzurY/versions/hzK5ru2b/otterlib-0.2.1.0%2B1.21.5-fabric.jar"
 hash-format = "sha1"
-hash = "115f3ab6426cfddf925878cd71fac9b77ebb7565"
+hash = "678add79271e1e2b8fef5c974548c05fe64ff89e"
 
 [update]
 [update.modrinth]
 mod-id = "zVVpzurY"
-version = "nGq8Pr6L"
+version = "hzK5ru2b"
